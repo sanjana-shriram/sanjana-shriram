@@ -14,7 +14,7 @@ Thanks for stopping by! I'm a current Master's student studying Computer Enginee
 
 - 📫 Reach me at **sshriram@andrew.cmu.edu**
 
-- 📄 More about my experiences on [my resume](https://docs.google.com/document/d/10dnzJq7CHqiN7QSJKnhWQECfnpOVaNCRmT0weXyOlmQ/edit?usp=sharing)
+- 📄 More about my experiences on [my resume](https://drive.google.com/file/d/1Vq7U8lzWkhlIVsp_3uRYwabhuX6pawiX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
