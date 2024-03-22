@@ -8,7 +8,7 @@ Thanks for stopping by! I'm a current Master's student studying Computer Enginee
 - 👀 I'm looking for full-time SWE roles starting January 2025 or co-ops for 2024 Fall
 - 🔭 I’m currently working on [SoundSync](https://course.ece.cmu.edu/~ece500/projects/f23-teamb6/)
 
-- 🌱 I’m currently learning **AWS, Distributed Embedded Systems, Data Center Computing, Extended Reality Systems, Rapid Prototyping, and Software Design for Mobile and Embedded Systems**
+- 🌱 I’m currently learning **Distributed Embedded Systems, Data Center Computing, Extended Reality Systems, Rapid Prototyping, and Software Design for Mobile and Embedded Systems**
 
 - 💬 Ask me about **embedded systems, computer systems, full-stack dev, ar/vr**
 
