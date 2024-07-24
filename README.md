@@ -5,12 +5,12 @@
 
 Thanks for stopping by! I'm a current Master's student studying Computer Engineering with a concentration in embedded systems at Carnegie Mellon University. I'm excited to connect!
 
-- 👀 I'm looking for full-time SWE roles starting January 2025 or co-ops for 2024 Fall
-- 🔭 I’m currently working on [SoundSync](https://course.ece.cmu.edu/~ece500/projects/f23-teamb6/)
+- 👀 I'm looking for full-time roles starting May 2025
+- 🔭 I recently worked on [SoundSync](https://course.ece.cmu.edu/~ece500/projects/f23-teamb6/)
 
 - 🌱 I’m currently learning **Distributed Embedded Systems, Data Center Computing, Extended Reality Systems, Rapid Prototyping, and Software Design for Mobile and Embedded Systems**
 
-- 💬 Ask me about **embedded systems, computer systems, full-stack dev, ar/vr**
+- 💬 Ask me about **embedded systems, computer systems, firmware, ar/vr**
 
 - 📫 Reach me at **sshriram@andrew.cmu.edu**
 
