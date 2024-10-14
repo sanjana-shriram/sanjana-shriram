@@ -8,9 +8,11 @@ Thanks for stopping by! I'm a current Master's student studying Computer Enginee
 - 👀 I'm looking for full-time roles starting May 2025
 - 🔭 I recently worked on [SoundSync](https://course.ece.cmu.edu/~ece500/projects/f23-teamb6/)
 
-- 🌱 I’m currently learning **Distributed Embedded Systems, Data Center Computing, Extended Reality Systems, Rapid Prototyping, and Software Design for Mobile and Embedded Systems**
+- ⚡ I'm currently working on **RISC-V embedded security at NVIDIA**
 
-- 💬 Ask me about **embedded systems, computer systems, firmware, ar/vr**
+- 🌱 I’m currently learning about **Computer Architecture, Embedded Security, Data Center Accelerated Computing, and GPU Architecture**
+
+- 💬 Ask me about **embedded systems, computer systems, firmware, kernel**
 
 - 📫 Reach me at **sshriram@andrew.cmu.edu**
 
