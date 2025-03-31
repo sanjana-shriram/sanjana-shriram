@@ -3,16 +3,16 @@
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
 <h3 align="center">Software and Embedded Systems Programmer</h3>
 
-Thanks for stopping by! I'm a current Master's student studying Computer Engineering with a concentration in embedded systems at Carnegie Mellon University. I'm excited to connect!
+Thanks for stopping by! I'm a Master's student studying Computer Engineering with a concentration in embedded systems at Carnegie Mellon University. I'm excited to connect!
 
-- 👀 I'm looking for full-time roles starting May 2025
+- 👀 I'm looking for cool devs to work on fun projects together! Reach out if you have any similar interests :) 
 - 🔭 I recently worked on [SoundSync](https://course.ece.cmu.edu/~ece500/projects/f23-teamb6/)
 
 - ⚡ I'm currently working on **RISC-V embedded security at NVIDIA**
 
-- 🌱 I’m currently learning about **Computer Architecture, Embedded Security, Data Center Accelerated Computing, and GPU Architecture**
+- 🌱 I’m currently learning about **Embedded Security, Data Center Accelerated Computing, Parallel Programming, and GPU Architecture**
 
-- 💬 Ask me about **embedded systems, computer systems, firmware, kernel**
+- 💬 Ask me about **embedded systems, computer systems, firmware, kernel, RTOS**
 
 - 📫 Reach me at **sshriram@andrew.cmu.edu**
 
